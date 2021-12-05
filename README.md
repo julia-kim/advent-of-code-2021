@@ -1,6 +1,6 @@
 # Advent of Code 2021 ☃️
 
-[![AoC](https://img.shields.io/badge/Advent%20of%20Code-2021-8803ec?style=for-the-badge)](https://adventofcode.com/2020)
+[![AoC](https://img.shields.io/badge/Advent%20of%20Code-2021-blue?style=for-the-badge)](https://adventofcode.com/2020)
 [![Language](https://img.shields.io/badge/Language-Kotlin-ff69b4?style=for-the-badge)](https://kotlinlang.org/)
 [![Days completed](https://img.shields.io/badge/Days%20Completed-1-red?style=for-the-badge)](https://github.com/julia-kim/advent-of-code-2021/tree/main/src/main/kotlin/days)
 [![Stars](https://img.shields.io/badge/Stars⭐%20-2-yellow?style=for-the-badge)](https://github.com/julia-kim/advent-of-code-2021/tree/main/src/main/kotlin/days)
