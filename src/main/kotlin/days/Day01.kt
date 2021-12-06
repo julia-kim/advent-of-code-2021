@@ -1,3 +1,7 @@
+package days
+
+import readInput
+
 fun main() {
     fun part1(input: List<String>): Int {
         val it = input.map { it.toInt() }.iterator()
