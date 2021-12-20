@@ -2,8 +2,8 @@
 
 [![AoC](https://img.shields.io/badge/Advent%20of%20Code-2021-blue?style=for-the-badge)](https://adventofcode.com/2020)
 [![Language](https://img.shields.io/badge/Language-Kotlin-ff69b4?style=for-the-badge)](https://kotlinlang.org/)
-[![Days completed](https://img.shields.io/badge/Days%20Completed-4-red?style=for-the-badge)](https://github.com/julia-kim/advent-of-code-2021/tree/main/src/main/kotlin/days)
-[![Stars](https://img.shields.io/badge/Stars⭐%20-8-yellow?style=for-the-badge)](https://github.com/julia-kim/advent-of-code-2021/tree/main/src/main/kotlin/days)
+[![Days completed](https://img.shields.io/badge/Days%20Completed-5-red?style=for-the-badge)](https://github.com/julia-kim/advent-of-code-2021/tree/main/src/main/kotlin/days)
+[![Stars](https://img.shields.io/badge/Stars⭐%20-11-yellow?style=for-the-badge)](https://github.com/julia-kim/advent-of-code-2021/tree/main/src/main/kotlin/days)
 [![License: Apache-2.0](https://img.shields.io/github/license/julia-kim/advent-of-code-2021?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [julia-kim][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
